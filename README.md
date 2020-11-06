@@ -4,11 +4,11 @@ Clone this repository in the folder named gitapp.
  </p>
  <p>
  Then type the following commands in the terminal</p>
- #### cd gitapp
+ cd gitapp
  </br>
- #### npm i
+ npm i
  </br>
- #### npm start
+ npm start
  </br>
 
 ### The application will open in the browser.
