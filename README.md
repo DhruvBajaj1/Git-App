@@ -6,7 +6,7 @@ This app lets you find the n most popular repositories of a given organization o
 <h2>Instructions for use </h2>
 
 - Clone this repository.
-- Open ternimal and type ` cd Git-App `.
+- Open terminal and type ` cd Git-App `.
 - Run command `npm i`.
 - Run command `npm start`.
 
